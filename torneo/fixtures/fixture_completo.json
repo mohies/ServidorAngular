@@ -1,0 +1,494 @@
+[
+{
+    "model": "torneo.usuariologin",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$1xx9XZshuUm8FzStdQvf0A$YSC2nBha3Pug3yL3eqOYYTcnZLtBZQDkEHzIwcIA8io=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "fefe",
+        "first_name": "",
+        "last_name": "",
+        "email": "elfefe34@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-10T19:11:10.601",
+        "rol": 2,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$5YeVSjCl5JR9buebhVjUP3$b0VRDIEzlOK0Td43X4mRbqMApihbg+ZUkdxG/KJpO/k=",
+        "last_login": "2025-01-29T18:36:34.525",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "admin@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2025-01-10T19:12:28",
+        "rol": 1,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$kVvSyCTSvoRPc8pOLeKVLe$pF44J75wjP0/7URXZcLFg8y987EzGFX3/yhtVlVcyKY=",
+        "last_login": "2025-01-11T20:31:57.314",
+        "is_superuser": false,
+        "username": "elfefe",
+        "first_name": "",
+        "last_name": "",
+        "email": "eljuansito73@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-10T23:50:12.170",
+        "rol": 2,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$nJA4ccpMWRJwHBpwV3TsLJ$Il2xF8pOvLcAg/Wv+Flh8NPMNe7s2Yvjgb6q4KrPA/0=",
+        "last_login": "2025-01-18T14:26:55.587",
+        "is_superuser": false,
+        "username": "elpepe",
+        "first_name": "",
+        "last_name": "",
+        "email": "eljuansito73@outlook.es",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-11T00:14:37.427",
+        "rol": 3,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 5,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$LevzVGjzVkzFDgqKmlS6iS$UkE+ODY9FjBn0qPEHBCraRn1YolI3ihQHIpsIEVBGBQ=",
+        "last_login": "2025-01-29T00:31:28.887",
+        "is_superuser": false,
+        "username": "yassine",
+        "first_name": "",
+        "last_name": "",
+        "email": "yassine@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-18T14:18:55.677",
+        "rol": 2,
+        "groups": [
+            2
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 6,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$WQPk0iXqZgkalwlSafkAmU$V06dsINa6vXI1IB8Tcso5GricAAHie9EtfHadc5CZV8=",
+        "last_login": "2025-01-18T14:37:37.155",
+        "is_superuser": false,
+        "username": "alvaro",
+        "first_name": "",
+        "last_name": "",
+        "email": "alvaro@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-18T14:27:29.434",
+        "rol": 3,
+        "groups": [
+            3
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 7,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$28Yu2AP8wSYOgwgtb8GEhD$SKCuRFu3tAdsEgZeBdNB3fsC/9w74C7hrH21RIgVrY4=",
+        "last_login": "2025-01-29T00:31:40.898",
+        "is_superuser": false,
+        "username": "jorge",
+        "first_name": "",
+        "last_name": "",
+        "email": "jorge@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-18T14:27:59.909",
+        "rol": 2,
+        "groups": [
+            2
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 8,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$OjloYiLiIDU9vtZdr6OCWr$GOz2Z72xcTei7m63O693LRf+n03kj5ARFIT6bBlHbOs=",
+        "last_login": "2025-01-29T18:37:40.918",
+        "is_superuser": false,
+        "username": "javier",
+        "first_name": "",
+        "last_name": "",
+        "email": "javier@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-18T14:39:28.649",
+        "rol": 2,
+        "groups": [
+            2
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 9,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$SWf6TYACL8F4EvjW3ulwJ8$fkHp2t8SVZGOTIPsjNfaivFm0acW2jevg6V8IN0oRII=",
+        "last_login": "2025-01-19T21:30:43.878",
+        "is_superuser": true,
+        "username": "lolo",
+        "first_name": "",
+        "last_name": "",
+        "email": "lolo@gamil.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2025-01-19T21:30:30.646",
+        "rol": 2,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 10,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$7ohFM1yrmGp5WVydBuDNlw$PTmoOXD6FjMyVgHLtXYPiDe6tYDVwkEJq+KMBdFSFmk=",
+        "last_login": "2025-01-19T21:32:47.607",
+        "is_superuser": true,
+        "username": "fofo",
+        "first_name": "",
+        "last_name": "",
+        "email": "fofo@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2025-01-19T21:32:16.636",
+        "rol": 2,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 11,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$FdazOFlcZRFrrUwv3TWD0e$NOpI2d4/Cg/XU4nRXsx3UAdCkttVBfCcD3Zxh/9BQc4=",
+        "last_login": "2025-01-19T23:52:37.179",
+        "is_superuser": false,
+        "username": "mocin",
+        "first_name": "",
+        "last_name": "",
+        "email": "elpepiito34@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-19T21:42:42.548",
+        "rol": 2,
+        "groups": [
+            2
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 12,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$eGPlODyO3XITW05uYDaf4w$md8dNeCQE8qRZrccgaKcPQhGXTt8UY3lq0TH172qdxg=",
+        "last_login": "2025-01-19T23:44:02.069",
+        "is_superuser": false,
+        "username": "pablo",
+        "first_name": "",
+        "last_name": "",
+        "email": "jorge@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-19T23:44:01.640",
+        "rol": 2,
+        "groups": [
+            2
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 13,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$51GDPQk1cJKeaeC1BEKQEX$kWlzgQDCwCBidX+zF/wj+CmF2goF0HLm2XwrqjCi1B0=",
+        "last_login": "2025-01-29T18:37:53.683",
+        "is_superuser": false,
+        "username": "paco",
+        "first_name": "",
+        "last_name": "",
+        "email": "paco@dwc.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-19T23:53:10.639",
+        "rol": 3,
+        "groups": [
+            3
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.organizador",
+    "pk": 1,
+    "fields": {
+        "usuario": 6,
+        "eventos_creados": 0
+    }
+},
+{
+    "model": "torneo.organizador",
+    "pk": 2,
+    "fields": {
+        "usuario": 13,
+        "eventos_creados": 0
+    }
+},
+{
+    "model": "torneo.usuario",
+    "pk": 1,
+    "fields": {
+        "nombre": "Pepe",
+        "correo": "pepe@gmail.com",
+        "clave_de_acceso": "1234",
+        "fecha_registro": null
+    }
+},
+{
+    "model": "torneo.equipo",
+    "pk": 1,
+    "fields": {
+        "nombre": "SKT",
+        "logotipo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALEGO_logo.svg&psig=AOvVaw1taJUtsCxo5htYCxf6qaar&ust=1734026259488000&source=images&cd=vfe&opi=89978449&ved=0CBQQ",
+        "fecha_ingreso": "2025-01-24",
+        "puntos_contribuidos": 0
+    }
+},
+{
+    "model": "torneo.participante",
+    "pk": 1,
+    "fields": {
+        "usuario": 1,
+        "puntos_obtenidos": 0,
+        "posicion_final": 0,
+        "fecha_inscripcion": "2025-01-23",
+        "tiempo_jugado": 2.0
+    }
+},
+{
+    "model": "torneo.torneo",
+    "pk": 6,
+    "fields": {
+        "nombre": "FIFA",
+        "descripcion": "torneo de futbol DE DEPORTes",
+        "categoria": "Acci¥n",
+        "duracion": "00:01:00",
+        "fecha_inicio": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.torneo",
+    "pk": 7,
+    "fields": {
+        "nombre": "LEAGUE OF LEGENDS",
+        "descripcion": "Juego de estrategia y acci¥n.",
+        "categoria": "Aventura",
+        "duracion": "00:01:00",
+        "fecha_inicio": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.torneo",
+    "pk": 8,
+    "fields": {
+        "nombre": "CLASH ROYALE",
+        "descripcion": "\"Estrategia en tiempo real.\"",
+        "categoria": "Estrategia",
+        "duracion": "00:04:00",
+        "fecha_inicio": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.torneo",
+    "pk": 9,
+    "fields": {
+        "nombre": "BRAWL STARS",
+        "descripcion": "\"Estrategia en tiempo real.\"",
+        "categoria": "Estrategia",
+        "duracion": "00:04:00",
+        "fecha_inicio": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.jugador",
+    "pk": 1,
+    "fields": {
+        "usuario": 5,
+        "puntos": 0,
+        "equipo": null
+    }
+},
+{
+    "model": "torneo.jugador",
+    "pk": 2,
+    "fields": {
+        "usuario": 7,
+        "puntos": 0,
+        "equipo": null
+    }
+},
+{
+    "model": "torneo.jugador",
+    "pk": 3,
+    "fields": {
+        "usuario": 8,
+        "puntos": 0,
+        "equipo": null
+    }
+},
+{
+    "model": "torneo.jugador",
+    "pk": 4,
+    "fields": {
+        "usuario": 11,
+        "puntos": 0,
+        "equipo": null
+    }
+},
+{
+    "model": "torneo.jugador",
+    "pk": 5,
+    "fields": {
+        "usuario": 12,
+        "puntos": 10000,
+        "equipo": "SKT"
+    }
+},
+{
+    "model": "torneo.consola",
+    "pk": 1,
+    "fields": {
+        "nombre": "PC",
+        "marca": "PC",
+        "tipo": "PC",
+        "precio": "10000.00"
+    }
+},
+{
+    "model": "torneo.juego",
+    "pk": 1,
+    "fields": {
+        "torneo": 7,
+        "nombre": "LEAGUE OF LEGENDS",
+        "genero": "ROL",
+        "id_consola": 1,
+        "descripcion": "JUEGO DE ROL"
+    }
+},
+{
+    "model": "torneo.torneoparticipante",
+    "pk": 1,
+    "fields": {
+        "torneo": 6,
+        "participante": 1,
+        "fecha_inscripcion": "2025-01-23",
+        "puntos_obtenidos": 0,
+        "posicion_final": 0
+    }
+},
+{
+    "model": "torneo.torneojugador",
+    "pk": 1,
+    "fields": {
+        "torneo": 6,
+        "jugador": 1,
+        "fecha_inscripcion": "2025-01-18"
+    }
+},
+{
+    "model": "torneo.torneojugador",
+    "pk": 2,
+    "fields": {
+        "torneo": 6,
+        "jugador": 3,
+        "fecha_inscripcion": "2025-01-18"
+    }
+},
+{
+    "model": "torneo.torneojugador",
+    "pk": 3,
+    "fields": {
+        "torneo": 6,
+        "jugador": 4,
+        "fecha_inscripcion": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.torneojugador",
+    "pk": 4,
+    "fields": {
+        "torneo": 8,
+        "jugador": 5,
+        "fecha_inscripcion": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.torneojugador",
+    "pk": 5,
+    "fields": {
+        "torneo": 6,
+        "jugador": 5,
+        "fecha_inscripcion": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.torneojugador",
+    "pk": 6,
+    "fields": {
+        "torneo": 9,
+        "jugador": 4,
+        "fecha_inscripcion": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.torneojugador",
+    "pk": 7,
+    "fields": {
+        "torneo": 7,
+        "jugador": 4,
+        "fecha_inscripcion": "2025-01-19"
+    }
+}
+]

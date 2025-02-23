@@ -1,0 +1,2554 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2025-01-10T19:13:09.778",
+        "user": 2,
+        "content_type": 3,
+        "object_id": "1",
+        "object_repr": "jugadores",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2025-01-10T23:50:36.876",
+        "user": 2,
+        "content_type": 3,
+        "object_id": "2",
+        "object_repr": "Jugadores",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2025-01-10T23:52:44.921",
+        "user": 2,
+        "content_type": 3,
+        "object_id": "2",
+        "object_repr": "Jugadores",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Permissions\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2025-01-11T00:06:05.755",
+        "user": 2,
+        "content_type": 3,
+        "object_id": "2",
+        "object_repr": "Jugadores",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Permissions\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2025-01-11T00:15:11.284",
+        "user": 2,
+        "content_type": 3,
+        "object_id": "3",
+        "object_repr": "Organizadores",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2025-01-11T00:23:03.536",
+        "user": 2,
+        "content_type": 3,
+        "object_id": "2",
+        "object_repr": "Jugadores",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2025-01-11T19:51:23.968",
+        "user": 2,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Lol",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2025-01-11T20:15:47.893",
+        "user": 2,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "dssdasdasda",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2025-01-11T20:16:45.104",
+        "user": 2,
+        "content_type": 9,
+        "object_id": "3",
+        "object_repr": "dsadsdsa",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2025-01-11T20:18:24.719",
+        "user": 2,
+        "content_type": 9,
+        "object_id": "4",
+        "object_repr": "sddsdsa",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2025-01-11T20:19:35.858",
+        "user": 2,
+        "content_type": 9,
+        "object_id": "5",
+        "object_repr": "dadsdsa",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2025-01-11T20:19:55.367",
+        "user": 2,
+        "content_type": 9,
+        "object_id": "6",
+        "object_repr": "sdadsadsa",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2025-01-11T20:32:56.313",
+        "user": 2,
+        "content_type": 3,
+        "object_id": "3",
+        "object_repr": "Organizadores",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Permissions\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2025-01-18T14:23:26.438",
+        "user": 2,
+        "content_type": 3,
+        "object_id": "2",
+        "object_repr": "Jugadores",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Permissions\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2025-01-18T14:23:30.983",
+        "user": 2,
+        "content_type": 3,
+        "object_id": "1",
+        "object_repr": "jugadores",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2025-01-18T14:49:16.602",
+        "user": 2,
+        "content_type": 3,
+        "object_id": "2",
+        "object_repr": "Jugadores",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Permissions\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2025-01-19T21:31:59.534",
+        "user": 2,
+        "content_type": 3,
+        "object_id": "4",
+        "object_repr": "Administradores",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2025-01-19T21:33:10.538",
+        "user": 10,
+        "content_type": 11,
+        "object_id": "2",
+        "object_repr": "admin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Rol\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2025-01-23T20:42:34.040",
+        "user": 2,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "Pepe",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2025-01-23T20:42:48.300",
+        "user": 2,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Pepe",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2025-01-23T20:42:54.422",
+        "user": 2,
+        "content_type": 18,
+        "object_id": "1",
+        "object_repr": "TorneoParticipante object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2025-01-24T13:49:54.377",
+        "user": 2,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "SKT",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2025-01-27T20:51:02.856",
+        "user": 2,
+        "content_type": 6,
+        "object_id": "1",
+        "object_repr": "PC",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2025-01-27T20:51:04.446",
+        "user": 2,
+        "content_type": 15,
+        "object_id": "1",
+        "object_repr": "LEAGUE OF LEGENDS",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 4,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 4,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 4,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 4,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 5,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 5,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 5,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 5,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add consola",
+        "content_type": 6,
+        "codename": "add_consola"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change consola",
+        "content_type": 6,
+        "codename": "change_consola"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete consola",
+        "content_type": 6,
+        "codename": "delete_consola"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view consola",
+        "content_type": 6,
+        "codename": "view_consola"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add equipo",
+        "content_type": 7,
+        "codename": "add_equipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change equipo",
+        "content_type": 7,
+        "codename": "change_equipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete equipo",
+        "content_type": 7,
+        "codename": "delete_equipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view equipo",
+        "content_type": 7,
+        "codename": "view_equipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add participante",
+        "content_type": 8,
+        "codename": "add_participante"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change participante",
+        "content_type": 8,
+        "codename": "change_participante"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete participante",
+        "content_type": 8,
+        "codename": "delete_participante"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view participante",
+        "content_type": 8,
+        "codename": "view_participante"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add torneo",
+        "content_type": 9,
+        "codename": "add_torneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change torneo",
+        "content_type": 9,
+        "codename": "change_torneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete torneo",
+        "content_type": 9,
+        "codename": "delete_torneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view torneo",
+        "content_type": 9,
+        "codename": "view_torneo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add usuario",
+        "content_type": 10,
+        "codename": "add_usuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change usuario",
+        "content_type": 10,
+        "codename": "change_usuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete usuario",
+        "content_type": 10,
+        "codename": "delete_usuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view usuario",
+        "content_type": 10,
+        "codename": "view_usuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 11,
+        "codename": "add_usuariologin"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 11,
+        "codename": "change_usuariologin"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 11,
+        "codename": "delete_usuariologin"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 11,
+        "codename": "view_usuariologin"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+        "name": "Can add jugador",
+        "content_type": 12,
+        "codename": "add_jugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+        "name": "Can change jugador",
+        "content_type": 12,
+        "codename": "change_jugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+        "name": "Can delete jugador",
+        "content_type": 12,
+        "codename": "delete_jugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+        "name": "Can view jugador",
+        "content_type": 12,
+        "codename": "view_jugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+        "name": "Can add organizador",
+        "content_type": 13,
+        "codename": "add_organizador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+        "name": "Can change organizador",
+        "content_type": 13,
+        "codename": "change_organizador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+        "name": "Can delete organizador",
+        "content_type": 13,
+        "codename": "delete_organizador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+        "name": "Can view organizador",
+        "content_type": 13,
+        "codename": "view_organizador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+        "name": "Can add participante equipo",
+        "content_type": 14,
+        "codename": "add_participanteequipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+        "name": "Can change participante equipo",
+        "content_type": 14,
+        "codename": "change_participanteequipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+        "name": "Can delete participante equipo",
+        "content_type": 14,
+        "codename": "delete_participanteequipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+        "name": "Can view participante equipo",
+        "content_type": 14,
+        "codename": "view_participanteequipo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+        "name": "Can add juego",
+        "content_type": 15,
+        "codename": "add_juego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+        "name": "Can change juego",
+        "content_type": 15,
+        "codename": "change_juego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+        "name": "Can delete juego",
+        "content_type": 15,
+        "codename": "delete_juego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+        "name": "Can view juego",
+        "content_type": 15,
+        "codename": "view_juego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+        "name": "Can add torneo juego",
+        "content_type": 16,
+        "codename": "add_torneojuego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+        "name": "Can change torneo juego",
+        "content_type": 16,
+        "codename": "change_torneojuego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+        "name": "Can delete torneo juego",
+        "content_type": 16,
+        "codename": "delete_torneojuego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+        "name": "Can view torneo juego",
+        "content_type": 16,
+        "codename": "view_torneojuego"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 65,
+    "fields": {
+        "name": "Can add torneo jugador",
+        "content_type": 17,
+        "codename": "add_torneojugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 66,
+    "fields": {
+        "name": "Can change torneo jugador",
+        "content_type": 17,
+        "codename": "change_torneojugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 67,
+    "fields": {
+        "name": "Can delete torneo jugador",
+        "content_type": 17,
+        "codename": "delete_torneojugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 68,
+    "fields": {
+        "name": "Can view torneo jugador",
+        "content_type": 17,
+        "codename": "view_torneojugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 69,
+    "fields": {
+        "name": "Can add torneo participante",
+        "content_type": 18,
+        "codename": "add_torneoparticipante"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 70,
+    "fields": {
+        "name": "Can change torneo participante",
+        "content_type": 18,
+        "codename": "change_torneoparticipante"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 71,
+    "fields": {
+        "name": "Can delete torneo participante",
+        "content_type": 18,
+        "codename": "delete_torneoparticipante"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 72,
+    "fields": {
+        "name": "Can view torneo participante",
+        "content_type": 18,
+        "codename": "view_torneoparticipante"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 73,
+    "fields": {
+        "name": "Can add perfil de jugador",
+        "content_type": 19,
+        "codename": "add_perfildejugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 74,
+    "fields": {
+        "name": "Can change perfil de jugador",
+        "content_type": 19,
+        "codename": "change_perfildejugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 75,
+    "fields": {
+        "name": "Can delete perfil de jugador",
+        "content_type": 19,
+        "codename": "delete_perfildejugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 76,
+    "fields": {
+        "name": "Can view perfil de jugador",
+        "content_type": 19,
+        "codename": "view_perfildejugador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 77,
+    "fields": {
+        "name": "Can add espectador",
+        "content_type": 20,
+        "codename": "add_espectador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 78,
+    "fields": {
+        "name": "Can change espectador",
+        "content_type": 20,
+        "codename": "change_espectador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 79,
+    "fields": {
+        "name": "Can delete espectador",
+        "content_type": 20,
+        "codename": "delete_espectador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 80,
+    "fields": {
+        "name": "Can view espectador",
+        "content_type": 20,
+        "codename": "view_espectador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 81,
+    "fields": {
+        "name": "Can add clasificacion",
+        "content_type": 21,
+        "codename": "add_clasificacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 82,
+    "fields": {
+        "name": "Can change clasificacion",
+        "content_type": 21,
+        "codename": "change_clasificacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 83,
+    "fields": {
+        "name": "Can delete clasificacion",
+        "content_type": 21,
+        "codename": "delete_clasificacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 84,
+    "fields": {
+        "name": "Can view clasificacion",
+        "content_type": 21,
+        "codename": "view_clasificacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 85,
+    "fields": {
+        "name": "Can add application",
+        "content_type": 22,
+        "codename": "add_application"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 86,
+    "fields": {
+        "name": "Can change application",
+        "content_type": 22,
+        "codename": "change_application"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 87,
+    "fields": {
+        "name": "Can delete application",
+        "content_type": 22,
+        "codename": "delete_application"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 88,
+    "fields": {
+        "name": "Can view application",
+        "content_type": 22,
+        "codename": "view_application"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 89,
+    "fields": {
+        "name": "Can add access token",
+        "content_type": 23,
+        "codename": "add_accesstoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 90,
+    "fields": {
+        "name": "Can change access token",
+        "content_type": 23,
+        "codename": "change_accesstoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 91,
+    "fields": {
+        "name": "Can delete access token",
+        "content_type": 23,
+        "codename": "delete_accesstoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 92,
+    "fields": {
+        "name": "Can view access token",
+        "content_type": 23,
+        "codename": "view_accesstoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 93,
+    "fields": {
+        "name": "Can add grant",
+        "content_type": 24,
+        "codename": "add_grant"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 94,
+    "fields": {
+        "name": "Can change grant",
+        "content_type": 24,
+        "codename": "change_grant"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 95,
+    "fields": {
+        "name": "Can delete grant",
+        "content_type": 24,
+        "codename": "delete_grant"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 96,
+    "fields": {
+        "name": "Can view grant",
+        "content_type": 24,
+        "codename": "view_grant"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 97,
+    "fields": {
+        "name": "Can add refresh token",
+        "content_type": 25,
+        "codename": "add_refreshtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 98,
+    "fields": {
+        "name": "Can change refresh token",
+        "content_type": 25,
+        "codename": "change_refreshtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 99,
+    "fields": {
+        "name": "Can delete refresh token",
+        "content_type": 25,
+        "codename": "delete_refreshtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 100,
+    "fields": {
+        "name": "Can view refresh token",
+        "content_type": 25,
+        "codename": "view_refreshtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 101,
+    "fields": {
+        "name": "Can add id token",
+        "content_type": 26,
+        "codename": "add_idtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 102,
+    "fields": {
+        "name": "Can change id token",
+        "content_type": 26,
+        "codename": "change_idtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 103,
+    "fields": {
+        "name": "Can delete id token",
+        "content_type": 26,
+        "codename": "delete_idtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 104,
+    "fields": {
+        "name": "Can view id token",
+        "content_type": 26,
+        "codename": "view_idtoken"
+    }
+},
+{
+    "model": "auth.group",
+    "pk": 2,
+    "fields": {
+        "name": "Jugadores",
+        "permissions": [
+            4,
+            12,
+            8,
+            16,
+            20,
+            84,
+            24,
+            28,
+            80,
+            60,
+            48,
+            52,
+            32,
+            56,
+            76,
+            36,
+            64,
+            68,
+            72,
+            40,
+            44
+        ]
+    }
+},
+{
+    "model": "auth.group",
+    "pk": 3,
+    "fields": {
+        "name": "Organizadores",
+        "permissions": [
+            1,
+            2,
+            3,
+            4,
+            9,
+            10,
+            11,
+            12,
+            5,
+            6,
+            7,
+            8,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            81,
+            82,
+            83,
+            84,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            77,
+            78,
+            79,
+            80,
+            57,
+            58,
+            59,
+            60,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            29,
+            30,
+            31,
+            32,
+            53,
+            54,
+            55,
+            56,
+            73,
+            74,
+            75,
+            76,
+            33,
+            34,
+            35,
+            36,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+        ]
+    }
+},
+{
+    "model": "auth.group",
+    "pk": 4,
+    "fields": {
+        "name": "Administradores",
+        "permissions": [
+            1,
+            2,
+            3,
+            4,
+            9,
+            10,
+            11,
+            12,
+            5,
+            6,
+            7,
+            8,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            81,
+            82,
+            83,
+            84,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            77,
+            78,
+            79,
+            80,
+            57,
+            58,
+            59,
+            60,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            29,
+            30,
+            31,
+            32,
+            53,
+            54,
+            55,
+            56,
+            73,
+            74,
+            75,
+            76,
+            33,
+            34,
+            35,
+            36,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+        ]
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "torneo",
+        "model": "consola"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "torneo",
+        "model": "equipo"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "torneo",
+        "model": "participante"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "torneo",
+        "model": "torneo"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "torneo",
+        "model": "usuario"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+        "app_label": "torneo",
+        "model": "usuariologin"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+        "app_label": "torneo",
+        "model": "jugador"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 13,
+    "fields": {
+        "app_label": "torneo",
+        "model": "organizador"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 14,
+    "fields": {
+        "app_label": "torneo",
+        "model": "participanteequipo"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 15,
+    "fields": {
+        "app_label": "torneo",
+        "model": "juego"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 16,
+    "fields": {
+        "app_label": "torneo",
+        "model": "torneojuego"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 17,
+    "fields": {
+        "app_label": "torneo",
+        "model": "torneojugador"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 18,
+    "fields": {
+        "app_label": "torneo",
+        "model": "torneoparticipante"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 19,
+    "fields": {
+        "app_label": "torneo",
+        "model": "perfildejugador"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 20,
+    "fields": {
+        "app_label": "torneo",
+        "model": "espectador"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 21,
+    "fields": {
+        "app_label": "torneo",
+        "model": "clasificacion"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 22,
+    "fields": {
+        "app_label": "oauth2_provider",
+        "model": "application"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 23,
+    "fields": {
+        "app_label": "oauth2_provider",
+        "model": "accesstoken"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 24,
+    "fields": {
+        "app_label": "oauth2_provider",
+        "model": "grant"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 25,
+    "fields": {
+        "app_label": "oauth2_provider",
+        "model": "refreshtoken"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 26,
+    "fields": {
+        "app_label": "oauth2_provider",
+        "model": "idtoken"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "9na2cvyjbqxokhdq9ymn5q4ub5na27ol",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hCcQgGX7nsGMjCDVA0kpV0Z765NutDtf-_9lwi4rSVsnZcwk7gIEKffLWJ6cN0B3bHemkytrssc5a7Ig3Y5NeLn9XD_Dgr28q1NtnlEGMB7P7BBxZqTy2c_EAMiadQEnpUbI2cCRTp5i84pJCJrtHh_APbkOKE:1tWZn0:BBQsrtwgHViTtG5HttuBodUcmh_3uSMWQYVqCrBTeec",
+        "expire_date": "2025-01-25T12:36:26.892"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "eqzcozovdkxgxkzhecaupku41ezqztg0",
+    "fields": {
+        "session_data": ".eJxVj0FuxCAMRa9SsW4zxuAAs-y-Z0DGkIbpKFQho7aqevcm0mxm6__--_KvmorMHOtSpTZ1Vggn0CcEpCcdzgbUs4qf3PtXW3NcSy9b3NpHWXZULj_wnV_yGAJkztZaIoeGCdAJlQmgiBQ6DHzb5njrZY01HyOPt8SyG48gX3h5b4O0ZVtrGg5kuKd9eGu5XF_v7INg5j7vbSsukdc-iwui2bFJsr-nMVljAhkYJ9IQjJ40AKJLKYhHN1rvHPhg1N8_zUZUgw:1tb2zt:fqa5Kp8_sWRqdHEGeSG_f3kZTZ-RDTcCpzrmVrOF7vk",
+        "expire_date": "2025-02-06T20:36:13.979"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "g059j4jomlip2o4syj64xp79pkuzudfy",
+    "fields": {
+        "session_data": "eyJmZWNoYV9pbmljaW8iOiIxOC8wMS8yMDI1IDE0OjUyIn0:1tZ9F8:BCdFYRzJOlwFwzticS47W7JrKEQqogWQIpc7miXHiBA",
+        "expire_date": "2025-02-01T14:52:06.642"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "r98etfvegibpw86p67tjb6v8fx56n08g",
+    "fields": {
+        "session_data": "eyJmZWNoYV9pbmljaW8iOiIyOS8wMS8yMDI1IDAwOjQ4In0:1tcvJS:0YuZTXUNJKFdnvhtLQsebTPL5emC5M-Vsaykoz76F6Q",
+        "expire_date": "2025-02-12T00:48:10.564"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "v0clufqpk3398tdmop0rlrdy5us6ogrw",
+    "fields": {
+        "session_data": ".eJxVjjsOwyAQRK8SUUd4F0wAl-lzBgQLDiQRSP5UUe4eW3Ljdt6b0XzZmCh7V2qh0tjAhO0AOwFCXQAHtOzKnF-X7NY5Ta7EXTlnwdM71R3El6_PxqnVZSqB7wo_6MwfLabP_XBPA9nPeWv3pIMyaCJpS-i1l4G2cyhCL6VVEm6jQrASRwQQQodgyQh9643WYKxkvz96Qz-L:1tcvnM:J5jI0T9xyjHPr1-8_8UTlqHOJYcHF1Q_6m1zmfiKllc",
+        "expire_date": "2025-02-12T01:19:04.866"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "xsalbxgm1kech1jf4tp08wzxw89vrwax",
+    "fields": {
+        "session_data": "eyJmZWNoYV9pbmljaW8iOiIyOS8wMS8yMDI1IDE4OjM4In0:1tdC1Q:ULgMFoT6CSeboSx9xnRLnylqCHW-23gA7EYVdO7jHIw",
+        "expire_date": "2025-02-12T18:38:40.232"
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$1xx9XZshuUm8FzStdQvf0A$YSC2nBha3Pug3yL3eqOYYTcnZLtBZQDkEHzIwcIA8io=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "fefe",
+        "first_name": "",
+        "last_name": "",
+        "email": "elfefe34@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-10T19:11:10.601",
+        "rol": 2,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$5YeVSjCl5JR9buebhVjUP3$b0VRDIEzlOK0Td43X4mRbqMApihbg+ZUkdxG/KJpO/k=",
+        "last_login": "2025-01-29T18:36:34.525",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "admin@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2025-01-10T19:12:28",
+        "rol": 1,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$kVvSyCTSvoRPc8pOLeKVLe$pF44J75wjP0/7URXZcLFg8y987EzGFX3/yhtVlVcyKY=",
+        "last_login": "2025-01-11T20:31:57.314",
+        "is_superuser": false,
+        "username": "elfefe",
+        "first_name": "",
+        "last_name": "",
+        "email": "eljuansito73@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-10T23:50:12.170",
+        "rol": 2,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$nJA4ccpMWRJwHBpwV3TsLJ$Il2xF8pOvLcAg/Wv+Flh8NPMNe7s2Yvjgb6q4KrPA/0=",
+        "last_login": "2025-01-18T14:26:55.587",
+        "is_superuser": false,
+        "username": "elpepe",
+        "first_name": "",
+        "last_name": "",
+        "email": "eljuansito73@outlook.es",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-11T00:14:37.427",
+        "rol": 3,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 5,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$LevzVGjzVkzFDgqKmlS6iS$UkE+ODY9FjBn0qPEHBCraRn1YolI3ihQHIpsIEVBGBQ=",
+        "last_login": "2025-01-29T00:31:28.887",
+        "is_superuser": false,
+        "username": "yassine",
+        "first_name": "",
+        "last_name": "",
+        "email": "yassine@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-18T14:18:55.677",
+        "rol": 2,
+        "groups": [
+            2
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 6,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$WQPk0iXqZgkalwlSafkAmU$V06dsINa6vXI1IB8Tcso5GricAAHie9EtfHadc5CZV8=",
+        "last_login": "2025-01-18T14:37:37.155",
+        "is_superuser": false,
+        "username": "alvaro",
+        "first_name": "",
+        "last_name": "",
+        "email": "alvaro@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-18T14:27:29.434",
+        "rol": 3,
+        "groups": [
+            3
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 7,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$28Yu2AP8wSYOgwgtb8GEhD$SKCuRFu3tAdsEgZeBdNB3fsC/9w74C7hrH21RIgVrY4=",
+        "last_login": "2025-01-29T00:31:40.898",
+        "is_superuser": false,
+        "username": "jorge",
+        "first_name": "",
+        "last_name": "",
+        "email": "jorge@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-18T14:27:59.909",
+        "rol": 2,
+        "groups": [
+            2
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 8,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$OjloYiLiIDU9vtZdr6OCWr$GOz2Z72xcTei7m63O693LRf+n03kj5ARFIT6bBlHbOs=",
+        "last_login": "2025-01-29T18:37:40.918",
+        "is_superuser": false,
+        "username": "javier",
+        "first_name": "",
+        "last_name": "",
+        "email": "javier@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-18T14:39:28.649",
+        "rol": 2,
+        "groups": [
+            2
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 9,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$SWf6TYACL8F4EvjW3ulwJ8$fkHp2t8SVZGOTIPsjNfaivFm0acW2jevg6V8IN0oRII=",
+        "last_login": "2025-01-19T21:30:43.878",
+        "is_superuser": true,
+        "username": "lolo",
+        "first_name": "",
+        "last_name": "",
+        "email": "lolo@gamil.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2025-01-19T21:30:30.646",
+        "rol": 2,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 10,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$7ohFM1yrmGp5WVydBuDNlw$PTmoOXD6FjMyVgHLtXYPiDe6tYDVwkEJq+KMBdFSFmk=",
+        "last_login": "2025-01-19T21:32:47.607",
+        "is_superuser": true,
+        "username": "fofo",
+        "first_name": "",
+        "last_name": "",
+        "email": "fofo@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2025-01-19T21:32:16.636",
+        "rol": 2,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 11,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$FdazOFlcZRFrrUwv3TWD0e$NOpI2d4/Cg/XU4nRXsx3UAdCkttVBfCcD3Zxh/9BQc4=",
+        "last_login": "2025-01-19T23:52:37.179",
+        "is_superuser": false,
+        "username": "mocin",
+        "first_name": "",
+        "last_name": "",
+        "email": "elpepiito34@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-19T21:42:42.548",
+        "rol": 2,
+        "groups": [
+            2
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 12,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$eGPlODyO3XITW05uYDaf4w$md8dNeCQE8qRZrccgaKcPQhGXTt8UY3lq0TH172qdxg=",
+        "last_login": "2025-01-19T23:44:02.069",
+        "is_superuser": false,
+        "username": "pablo",
+        "first_name": "",
+        "last_name": "",
+        "email": "jorge@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-19T23:44:01.640",
+        "rol": 2,
+        "groups": [
+            2
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.usuariologin",
+    "pk": 13,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$51GDPQk1cJKeaeC1BEKQEX$kWlzgQDCwCBidX+zF/wj+CmF2goF0HLm2XwrqjCi1B0=",
+        "last_login": "2025-01-29T18:37:53.683",
+        "is_superuser": false,
+        "username": "paco",
+        "first_name": "",
+        "last_name": "",
+        "email": "paco@dwc.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-01-19T23:53:10.639",
+        "rol": 3,
+        "groups": [
+            3
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "torneo.organizador",
+    "pk": 1,
+    "fields": {
+        "usuario": 6,
+        "eventos_creados": 0
+    }
+},
+{
+    "model": "torneo.organizador",
+    "pk": 2,
+    "fields": {
+        "usuario": 13,
+        "eventos_creados": 0
+    }
+},
+{
+    "model": "torneo.usuario",
+    "pk": 1,
+    "fields": {
+        "nombre": "Pepe",
+        "correo": "pepe@gmail.com",
+        "clave_de_acceso": "1234",
+        "fecha_registro": null
+    }
+},
+{
+    "model": "torneo.equipo",
+    "pk": 1,
+    "fields": {
+        "nombre": "SKT",
+        "logotipo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALEGO_logo.svg&psig=AOvVaw1taJUtsCxo5htYCxf6qaar&ust=1734026259488000&source=images&cd=vfe&opi=89978449&ved=0CBQQ",
+        "fecha_ingreso": "2025-01-24",
+        "puntos_contribuidos": 0
+    }
+},
+{
+    "model": "torneo.participante",
+    "pk": 1,
+    "fields": {
+        "usuario": 1,
+        "puntos_obtenidos": 0,
+        "posicion_final": 0,
+        "fecha_inscripcion": "2025-01-23",
+        "tiempo_jugado": 2.0
+    }
+},
+{
+    "model": "torneo.torneo",
+    "pk": 6,
+    "fields": {
+        "nombre": "FIFA",
+        "descripcion": "torneo de futbol DE DEPORTes",
+        "categoria": "AcciÑn",
+        "duracion": "00:01:00",
+        "fecha_inicio": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.torneo",
+    "pk": 7,
+    "fields": {
+        "nombre": "LEAGUE OF LEGENDS",
+        "descripcion": "Juego de estrategia y acciÑn.",
+        "categoria": "Aventura",
+        "duracion": "00:01:00",
+        "fecha_inicio": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.torneo",
+    "pk": 8,
+    "fields": {
+        "nombre": "CLASH ROYALE",
+        "descripcion": "\"Estrategia en tiempo real.\"",
+        "categoria": "Estrategia",
+        "duracion": "00:04:00",
+        "fecha_inicio": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.torneo",
+    "pk": 9,
+    "fields": {
+        "nombre": "BRAWL STARS",
+        "descripcion": "\"Estrategia en tiempo real.\"",
+        "categoria": "Estrategia",
+        "duracion": "00:04:00",
+        "fecha_inicio": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.jugador",
+    "pk": 1,
+    "fields": {
+        "usuario": 5,
+        "puntos": 0,
+        "equipo": null
+    }
+},
+{
+    "model": "torneo.jugador",
+    "pk": 2,
+    "fields": {
+        "usuario": 7,
+        "puntos": 0,
+        "equipo": null
+    }
+},
+{
+    "model": "torneo.jugador",
+    "pk": 3,
+    "fields": {
+        "usuario": 8,
+        "puntos": 0,
+        "equipo": null
+    }
+},
+{
+    "model": "torneo.jugador",
+    "pk": 4,
+    "fields": {
+        "usuario": 11,
+        "puntos": 0,
+        "equipo": null
+    }
+},
+{
+    "model": "torneo.jugador",
+    "pk": 5,
+    "fields": {
+        "usuario": 12,
+        "puntos": 10000,
+        "equipo": "SKT"
+    }
+},
+{
+    "model": "torneo.consola",
+    "pk": 1,
+    "fields": {
+        "nombre": "PC",
+        "marca": "PC",
+        "tipo": "PC",
+        "precio": "10000.00"
+    }
+},
+{
+    "model": "torneo.juego",
+    "pk": 1,
+    "fields": {
+        "torneo": 7,
+        "nombre": "LEAGUE OF LEGENDS",
+        "genero": "ROL",
+        "id_consola": 1,
+        "descripcion": "JUEGO DE ROL"
+    }
+},
+{
+    "model": "torneo.torneoparticipante",
+    "pk": 1,
+    "fields": {
+        "torneo": 6,
+        "participante": 1,
+        "fecha_inscripcion": "2025-01-23",
+        "puntos_obtenidos": 0,
+        "posicion_final": 0
+    }
+},
+{
+    "model": "torneo.torneojugador",
+    "pk": 1,
+    "fields": {
+        "torneo": 6,
+        "jugador": 1,
+        "fecha_inscripcion": "2025-01-18"
+    }
+},
+{
+    "model": "torneo.torneojugador",
+    "pk": 2,
+    "fields": {
+        "torneo": 6,
+        "jugador": 3,
+        "fecha_inscripcion": "2025-01-18"
+    }
+},
+{
+    "model": "torneo.torneojugador",
+    "pk": 3,
+    "fields": {
+        "torneo": 6,
+        "jugador": 4,
+        "fecha_inscripcion": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.torneojugador",
+    "pk": 4,
+    "fields": {
+        "torneo": 8,
+        "jugador": 5,
+        "fecha_inscripcion": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.torneojugador",
+    "pk": 5,
+    "fields": {
+        "torneo": 6,
+        "jugador": 5,
+        "fecha_inscripcion": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.torneojugador",
+    "pk": 6,
+    "fields": {
+        "torneo": 9,
+        "jugador": 4,
+        "fecha_inscripcion": "2025-01-19"
+    }
+},
+{
+    "model": "torneo.torneojugador",
+    "pk": 7,
+    "fields": {
+        "torneo": 7,
+        "jugador": 4,
+        "fecha_inscripcion": "2025-01-19"
+    }
+},
+{
+    "model": "oauth2_provider.application",
+    "pk": 1,
+    "fields": {
+        "client_id": "pepeid",
+        "user": 2,
+        "redirect_uris": "",
+        "post_logout_redirect_uris": "",
+        "client_type": "confidential",
+        "authorization_grant_type": "password",
+        "client_secret": "pepesecreto",
+        "hash_client_secret": false,
+        "name": "pepe",
+        "skip_authorization": false,
+        "created": "2025-01-23T20:53:26.596",
+        "updated": "2025-01-23T20:53:34.997",
+        "algorithm": "",
+        "allowed_origins": ""
+    }
+},
+{
+    "model": "oauth2_provider.application",
+    "pk": 2,
+    "fields": {
+        "client_id": "loloid",
+        "user": 2,
+        "redirect_uris": "",
+        "post_logout_redirect_uris": "",
+        "client_type": "confidential",
+        "authorization_grant_type": "password",
+        "client_secret": "lolosecreto",
+        "hash_client_secret": false,
+        "name": "lolo",
+        "skip_authorization": false,
+        "created": "2025-01-28T19:14:44.289",
+        "updated": "2025-01-28T19:14:44.289",
+        "algorithm": "",
+        "allowed_origins": ""
+    }
+},
+{
+    "model": "oauth2_provider.accesstoken",
+    "pk": 1,
+    "fields": {
+        "user": 2,
+        "source_refresh_token": null,
+        "token": "xTszD1xTbhBVJUFaUfTTf6DmCTWmCU",
+        "token_checksum": "b777aba51e95d14fa10851bc29b429ac8b1f16299319159fb164b0769dc475a5",
+        "id_token": null,
+        "application": 1,
+        "expires": "2025-01-24T06:55:52.574",
+        "scope": "read write groups",
+        "created": "2025-01-23T20:55:52.575",
+        "updated": "2025-01-23T20:55:52.575"
+    }
+},
+{
+    "model": "oauth2_provider.accesstoken",
+    "pk": 2,
+    "fields": {
+        "user": 2,
+        "source_refresh_token": null,
+        "token": "RjVEVOfW5sYufyYt7RPmgI4y1BLbDU",
+        "token_checksum": "a65099cb4ceb9cec12d6b5024f29fa59cd0aa12a6f9c86de1a04b22b8c319fb3",
+        "id_token": null,
+        "application": 1,
+        "expires": "2025-01-24T23:07:42.684",
+        "scope": "read write groups",
+        "created": "2025-01-24T13:07:42.685",
+        "updated": "2025-01-24T13:07:42.685"
+    }
+},
+{
+    "model": "oauth2_provider.accesstoken",
+    "pk": 3,
+    "fields": {
+        "user": 8,
+        "source_refresh_token": null,
+        "token": "2GkjA1HCzsmgKWP5ntbdJNjP9fz1Le",
+        "token_checksum": "efea8967c8500fe18f01d9e83f1e11a8de8314895ebb2ee94f7ed88417b853c8",
+        "id_token": null,
+        "application": 2,
+        "expires": "2025-01-29T05:16:32.912",
+        "scope": "read write groups",
+        "created": "2025-01-28T19:16:32.913",
+        "updated": "2025-01-28T19:16:32.913"
+    }
+},
+{
+    "model": "oauth2_provider.accesstoken",
+    "pk": 4,
+    "fields": {
+        "user": 13,
+        "source_refresh_token": null,
+        "token": "0tOdNoXeUMEjn4mWBczJrzMQfRntxD",
+        "token_checksum": "2145b3a843f4988a0b026b1ee439fbce525811ef01271fb6b04f6f47c1e3d47c",
+        "id_token": null,
+        "application": 2,
+        "expires": "2025-01-29T10:33:25.437",
+        "scope": "read write groups",
+        "created": "2025-01-29T00:33:25.437",
+        "updated": "2025-01-29T00:33:25.437"
+    }
+},
+{
+    "model": "oauth2_provider.accesstoken",
+    "pk": 5,
+    "fields": {
+        "user": 2,
+        "source_refresh_token": null,
+        "token": "PulrhUQJ61Dkb4mFwlbia6IkKjv5gk",
+        "token_checksum": "ff91108f712555571c1bc4d88094e9e9fd9d2cfba2a8a6d3d9cae923d748bf0b",
+        "id_token": null,
+        "application": 2,
+        "expires": "2025-01-29T10:34:20.646",
+        "scope": "read write groups",
+        "created": "2025-01-29T00:34:20.646",
+        "updated": "2025-01-29T00:34:20.646"
+    }
+},
+{
+    "model": "oauth2_provider.accesstoken",
+    "pk": 6,
+    "fields": {
+        "user": 8,
+        "source_refresh_token": null,
+        "token": "YKOx7cPJxS8b7rFaFloTqbH6t7wHaf",
+        "token_checksum": "aaa7bd923be098b9ac212f07d27976b00c5879d36b6d053eb8203c076e083c8b",
+        "id_token": null,
+        "application": 2,
+        "expires": "2025-01-30T04:12:52.053",
+        "scope": "read write groups",
+        "created": "2025-01-29T18:12:52.053",
+        "updated": "2025-01-29T18:12:52.053"
+    }
+},
+{
+    "model": "oauth2_provider.accesstoken",
+    "pk": 7,
+    "fields": {
+        "user": 8,
+        "source_refresh_token": null,
+        "token": "iW12raJseBT6RZ2kepFzQsHLqZ6SyA",
+        "token_checksum": "6be37c58ee97f8bfb97e0a5534be576293f3af2a1a7f39f7f352569d76a67613",
+        "id_token": null,
+        "application": 2,
+        "expires": "2025-01-30T04:18:01.866",
+        "scope": "read write groups",
+        "created": "2025-01-29T18:18:01.866",
+        "updated": "2025-01-29T18:18:01.866"
+    }
+},
+{
+    "model": "oauth2_provider.accesstoken",
+    "pk": 8,
+    "fields": {
+        "user": 8,
+        "source_refresh_token": null,
+        "token": "qorNArLq7LaWEujxUIVUPEUcxUkFg9",
+        "token_checksum": "cfbf0678bd83ae13359742a1ff4b9b58316ecc842d543f9171a30e42ef498e89",
+        "id_token": null,
+        "application": 2,
+        "expires": "2025-01-30T04:35:52.356",
+        "scope": "read write groups",
+        "created": "2025-01-29T18:35:52.357",
+        "updated": "2025-01-29T18:35:52.357"
+    }
+},
+{
+    "model": "oauth2_provider.accesstoken",
+    "pk": 9,
+    "fields": {
+        "user": 13,
+        "source_refresh_token": null,
+        "token": "IvIsABmIufwTZXMi12MeEIqTvJalVa",
+        "token_checksum": "d945f3d4e56d29b93b6452f58d2f562a3c5abe427b50b6e6b79b40a9aefb0388",
+        "id_token": null,
+        "application": 2,
+        "expires": "2025-01-30T04:38:09.916",
+        "scope": "read write groups",
+        "created": "2025-01-29T18:38:09.916",
+        "updated": "2025-01-29T18:38:09.916"
+    }
+},
+{
+    "model": "oauth2_provider.accesstoken",
+    "pk": 10,
+    "fields": {
+        "user": 2,
+        "source_refresh_token": null,
+        "token": "dni4L4FkwQcXPyG9utKQE067zDDgnA",
+        "token_checksum": "5e3ff80f9f10566493d4d9fb9713c0ad4e3ed8b90a19355f51d3db7a1bf633cc",
+        "id_token": null,
+        "application": 2,
+        "expires": "2025-01-30T04:38:34.416",
+        "scope": "read write groups",
+        "created": "2025-01-29T18:38:34.416",
+        "updated": "2025-01-29T18:38:34.416"
+    }
+},
+{
+    "model": "oauth2_provider.refreshtoken",
+    "pk": 1,
+    "fields": {
+        "user": 2,
+        "token": "VBaKKZyvkmkDMLLt0dSoHCnI8rSiJf",
+        "application": 1,
+        "access_token": 1,
+        "token_family": "0c4c07a2-f07a-4fc8-b8c5-cf23b2a265d9",
+        "created": "2025-01-23T20:55:52.578",
+        "updated": "2025-01-23T20:55:52.578",
+        "revoked": null
+    }
+},
+{
+    "model": "oauth2_provider.refreshtoken",
+    "pk": 2,
+    "fields": {
+        "user": 2,
+        "token": "I6mPqvVZeimfqouPWh7D756rqUo2i8",
+        "application": 1,
+        "access_token": 2,
+        "token_family": "e3543e9f-9164-42bd-be7b-bf9cd3bbc593",
+        "created": "2025-01-24T13:07:42.700",
+        "updated": "2025-01-24T13:07:42.700",
+        "revoked": null
+    }
+},
+{
+    "model": "oauth2_provider.refreshtoken",
+    "pk": 3,
+    "fields": {
+        "user": 8,
+        "token": "IqK73OAeXXcKdg9BYzvPJUNEYyr7id",
+        "application": 2,
+        "access_token": 3,
+        "token_family": "69103f26-69fc-4fd7-ab9e-5e6b2295c673",
+        "created": "2025-01-28T19:16:32.917",
+        "updated": "2025-01-28T19:16:32.917",
+        "revoked": null
+    }
+},
+{
+    "model": "oauth2_provider.refreshtoken",
+    "pk": 4,
+    "fields": {
+        "user": 13,
+        "token": "S5HVvMNZmdlJpEdkHbP43cHlB26IWm",
+        "application": 2,
+        "access_token": 4,
+        "token_family": "edc517bd-a05a-49b8-a2cf-63fdef489307",
+        "created": "2025-01-29T00:33:25.437",
+        "updated": "2025-01-29T00:33:25.437",
+        "revoked": null
+    }
+},
+{
+    "model": "oauth2_provider.refreshtoken",
+    "pk": 5,
+    "fields": {
+        "user": 2,
+        "token": "axWV0g0dupkYIHGybEyr50s1r2dSPd",
+        "application": 2,
+        "access_token": 5,
+        "token_family": "70121eae-4feb-4c14-a3d1-ecd6dea8bf86",
+        "created": "2025-01-29T00:34:20.646",
+        "updated": "2025-01-29T00:34:20.646",
+        "revoked": null
+    }
+},
+{
+    "model": "oauth2_provider.refreshtoken",
+    "pk": 6,
+    "fields": {
+        "user": 8,
+        "token": "KqdEIB32tBSHnsdsFCWfIDNc7Rvcdn",
+        "application": 2,
+        "access_token": 6,
+        "token_family": "c1e9928c-8df4-493e-99da-d6e544fc8f5c",
+        "created": "2025-01-29T18:12:52.055",
+        "updated": "2025-01-29T18:12:52.055",
+        "revoked": null
+    }
+},
+{
+    "model": "oauth2_provider.refreshtoken",
+    "pk": 7,
+    "fields": {
+        "user": 8,
+        "token": "DCwEA1I5iGumFevDagHfQEfLMIk0CP",
+        "application": 2,
+        "access_token": 7,
+        "token_family": "cad3cf07-180e-4802-ad5d-5c8f5e494a41",
+        "created": "2025-01-29T18:18:01.866",
+        "updated": "2025-01-29T18:18:01.866",
+        "revoked": null
+    }
+},
+{
+    "model": "oauth2_provider.refreshtoken",
+    "pk": 8,
+    "fields": {
+        "user": 8,
+        "token": "Tty1pwXtbGTPISte4h6RMgK3ZPRQZg",
+        "application": 2,
+        "access_token": 8,
+        "token_family": "f5ed01d6-6594-49a0-a137-3498ef0583a5",
+        "created": "2025-01-29T18:35:52.360",
+        "updated": "2025-01-29T18:35:52.360",
+        "revoked": null
+    }
+},
+{
+    "model": "oauth2_provider.refreshtoken",
+    "pk": 9,
+    "fields": {
+        "user": 13,
+        "token": "qlibNhLq5tS28XxgzapH6kngjax00M",
+        "application": 2,
+        "access_token": 9,
+        "token_family": "26e66aff-ec9c-465c-8ccd-902a44e97596",
+        "created": "2025-01-29T18:38:09.916",
+        "updated": "2025-01-29T18:38:09.916",
+        "revoked": null
+    }
+},
+{
+    "model": "oauth2_provider.refreshtoken",
+    "pk": 10,
+    "fields": {
+        "user": 2,
+        "token": "jdRsC066kLYKH6V0Qgluuh8OGbca4D",
+        "application": 2,
+        "access_token": 10,
+        "token_family": "a8a57fb6-6f46-4305-a632-5ae3a63bafb6",
+        "created": "2025-01-29T18:38:34.416",
+        "updated": "2025-01-29T18:38:34.416",
+        "revoked": null
+    }
+}
+]
